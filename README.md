@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3ddc97,100:0b8457&height=200&section=header&text=Keval%20Pansuriya&fontColor=ffffff&fontSize=50&desc=Backend%20Engineer%20%7C%20Security%20%7C%20Local%20AI&descAlignY=62&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3ddc97,100:0b8457&height=200&section=header&text=Keval%20Pansuriya&fontColor=ffffff&fontSize=50&desc=Backend%20Engineer%20%7C%20Application%20Security%20%7C%20Applied%20AI&descAlignY=62&descSize=18)
 
 [![Profile views](https://komarev.com/ghpvc/?username=keval1705&color=3ddc97&style=flat)](https://github.com/keval1705)
 
@@ -8,11 +8,11 @@
 
 ## 👋 About me
 
-Backend engineer with a strong interest in **application security**, **offensive security tooling**, and **local / offline AI**.
+Backend engineer with a strong interest in **application security**, **offensive security tooling**, and **applied AI & LLM tooling**.
 
 - 🛠️ I build scalable, multi-tenant backend systems (Node.js, Express, MongoDB).
 - 🔐 I work on security automation — authorized pentesting workflows, log analysis, OWASP-focused code review.
-- 🤖 I build AI-assisted developer & security tooling that runs LLMs locally (no cloud).
+- 🤖 I build AI-assisted developer & security tooling that privacy-first, on-device AI tooling.
 - 📚 Currently going deep on AI agents and secure system design.
 
 ## 🧰 Tech stack
