@@ -12,7 +12,7 @@ Backend engineer with a strong interest in **application security**, **offensive
 
 - 🛠️ I build scalable, multi-tenant backend systems (Node.js, Express, MongoDB).
 - 🔐 I work on security automation — authorized pentesting workflows, log analysis, OWASP-focused code review.
-- 🤖 I build AI-assisted developer & security tooling that privacy-first, on-device AI tooling.
+- 🤖 I build privacy-first, on-device AI tooling for developers and security workflows.
 - 📚 Currently going deep on AI agents and secure system design.
 
 ## 🧰 Tech stack
